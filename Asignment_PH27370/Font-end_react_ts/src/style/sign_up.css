@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif; 
+  }
+
+.wp_sign_up{
+  
+    margin: 100px auto;
+    height: 300px;
+    width: 600px; 
+   /* /* display: flex;
+   justify-content: center; */
+}
+.wp_sign_up h2{
+    text-align: center;
+}
+.item_sign_up{
+    width: 500px;
+    margin-top: 50px;
+}

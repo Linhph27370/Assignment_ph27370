@@ -1,0 +1,18 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif;
+  }
+.update{
+    background-color: white;
+    text-align: center;
+    margin: 20px auto;
+    width: 500px;
+}
+.add{
+    background-color: white;
+    text-align: center;
+    margin: 20px auto;
+    width: 500px;
+}   
